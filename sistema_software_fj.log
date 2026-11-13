@@ -1,0 +1,27 @@
+2026-11-13 19:33:10,939 - INFO - Cliente registrado con éxito: 12345678
+2026-11-13 19:33:10,941 - INFO - Cliente registrado con éxito: 1234AB
+2026-11-13 19:33:10,942 - INFO - Servicio registrado: SAL-01
+2026-11-13 19:33:10,942 - INFO - Servicio registrado: EQ-01
+2026-11-13 19:33:10,943 - WARNING - Operación #5 generó excepción controlada: El costo base no puede ser negativo.
+2026-11-13 19:33:10,944 - INFO - Servicio registrado: SAL-02
+2026-11-13 19:33:10,945 - INFO - Reserva RES-001 confirmada exitosamente.
+2026-11-13 19:33:10,945 - INFO - Reserva creada y confirmada: RES-001
+2026-11-13 19:33:10,947 - WARNING - Operación #8 generó excepción controlada: list index out of range
+2026-11-13 19:33:10,947 - INFO - Reserva RES-002 confirmada exitosamente.
+2026-11-13 19:33:10,947 - INFO - Reserva creada y confirmada: RES-002
+2026-11-13 19:33:10,948 - ERROR - Operación inválida detectada y manejada: Las horas de alquiler deben ser mayores a cero.
+2026-11-13 19:33:10,948 - WARNING - Operación #10 generó excepción controlada: Fallo intencional controlado en operación de cálculo.
+2026-11-13 19:35:28,893 - INFO - Cliente registrado con éxito: 12345678
+2026-11-13 19:35:28,894 - INFO - Cliente registrado con éxito: 1234AB
+2026-11-13 19:35:28,895 - INFO - Servicio registrado: SAL-01
+2026-11-13 19:35:28,896 - INFO - Servicio registrado: EQ-01
+2026-11-13 19:35:28,896 - WARNING - Operación #5 generó excepción controlada: El costo base no puede ser negativo.
+2026-11-13 19:35:28,897 - INFO - Servicio registrado: SAL-02
+2026-11-13 19:35:28,898 - INFO - Reserva RES-001 confirmada exitosamente.
+2026-11-13 19:35:28,898 - INFO - Reserva creada y confirmada: RES-001
+2026-11-13 19:35:28,899 - ERROR - Fallo en la creación/confirmación de reserva: Fallo al inicializar la reserva RES-002
+2026-11-13 19:35:28,899 - WARNING - Operación #8 generó excepción controlada: Fallo al inicializar la reserva RES-002
+2026-11-13 19:35:28,900 - INFO - Reserva RES-003 confirmada exitosamente.
+2026-11-13 19:35:28,900 - INFO - Reserva creada y confirmada: RES-003
+2026-11-13 19:35:28,900 - ERROR - Operación inválida detectada y manejada: Las horas de alquiler deben ser mayores a cero.
+2026-11-13 19:35:28,901 - WARNING - Operación #10 generó excepción controlada: Fallo intencional controlado en operación de cálculo.
